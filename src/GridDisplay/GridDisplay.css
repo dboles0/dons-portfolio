@@ -1,0 +1,27 @@
+.node {
+  margin: 0.5px;
+  float: left;
+  width: 20px;
+  height: 20px;
+  outline: 1px solid gray;
+}
+.grid {
+  margin-top: 40px;
+  margin-left: 1px;
+  padding: 10px;
+  width: 1070px;
+  max-width: 1070px;
+  display: inline-block;
+}
+.Buttons {
+  padding: 10px;
+  position: absolute;
+}
+.Reset {
+  float: left;
+  padding: 1px;
+}
+.VisualizeDikstraButton {
+  float: left;
+  padding: 1px;
+}

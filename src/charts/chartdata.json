@@ -1,0 +1,42 @@
+{
+  "data": {
+    "children": [
+      {
+        "name": "",
+        "children": [
+          {
+            "name": "C++",
+            "group": "A",
+            "value": 30,
+            "colname": "level3"
+          },
+          {
+            "name": "Python",
+            "group": "A",
+            "value": 50,
+            "colname": "level3"
+          },
+          {
+            "name": "C",
+            "group": "A",
+            "value": 25,
+            "colname": "level3"
+          },
+          { "name": "HTML", "group": "A", "value": 20, "colname": "level3" },
+          {
+            "name": "JavaScript",
+            "group": "C",
+            "value": 30,
+            "colname": "level3"
+          },
+          { "name": "CSS", "group": "A", "value": 20, "colname": "level3" },
+          { "name": "Scala", "group": "A", "value": 10, "colname": "level3" },
+          { "name": "Java", "group": "A", "value": 10, "colname": "level3" },
+          { "name": "C#", "group": "A", "value": 10, "colname": "level3" }
+        ]
+      }
+    ]
+  },
+  "w": 600,
+  "h": 400
+}
