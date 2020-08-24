@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "dons-portfolio",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "Information about myself",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
@@ -19,22 +19,12 @@
     "fusioncharts": "^3.15.2",
     "gatsby": "^2.23.12",
     "jquery": "^3.5.1",
-    "owl.carousel": "^2.3.4",
     "react": "^16.12.0",
     "react-bootstrap": "^1.3.0",
     "react-dom": "^16.12.0",
-    "react-fancybox": "^0.2.5",
-    "react-fusioncharts": "^3.1.2",
     "react-isotope": "^1.0.7",
-    "react-owl-carousel": "^2.3.1",
-    "react-owl-carousel2": "^0.3.0",
-    "react-router": "^5.2.0",
-    "react-router-dom": "^5.2.0",
-    "react-simple-lightbox": "^1.0.26",
     "react-sticky": "^6.0.3",
     "react-typed": "^1.2.0",
-    "react-typical": "^0.1.3",
-    "simple-react-lightbox": "^3.2.3-3",
     "styled-components": "^5.1.1"
   },
   "devDependencies": {
@@ -42,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/dboles0/dons-portfolio"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
